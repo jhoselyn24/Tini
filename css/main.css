@@ -1,0 +1,106 @@
+/* Inserte su codigo aqui */
+header{
+	background-color: #FCCE09;
+	padding: 30px 100px;
+	text-align: center;
+}
+header .col-4 a{
+	text-decoration: none;
+	color: white;
+
+}
+.col-4 a:hover{
+	text-decoration: none;
+	color: silver;
+}
+.menu{
+	margin-top: 50px;
+}
+.menu a{
+	background: #FCBA43;
+	padding: 15px;
+
+}
+.col-4 nav a{
+	margin-right: 30px;
+}
+h1{
+	color: white;
+	margin-top: 300px;
+}
+h4{
+	color: white;
+	margin-bottom: 200px;
+}
+section{
+	background: #EAEAE9;
+	padding-bottom: 30px;
+
+}
+.content{
+	margin-left: 200px;
+	background: white;
+	margin-top: 100px;
+	position: relative;
+	padding-bottom: 30px;
+	width: 400px;
+
+}
+section .col-6 .fig{
+	width: 300px;
+	height: 300px;
+	background: #CCCCCC;
+	text-align: center;
+	margin:20px 50px 20px;
+	padding-top: 120px;
+	color: #969696;
+	font-size: 30px;
+}
+section h1{
+	margin:10px;
+	color: #868683;
+}
+section p{
+	color: #C3C0C2;
+	margin: 20px;
+}
+section .content a{
+	text-decoration: none;
+	color: white;
+	padding: 15px;
+	background:#FCBA43;
+	text-align: center;
+	margin-left: 150px; 
+}
+.content a:hover{
+	text-decoration: none;
+	color: silver;
+	padding: 15px;
+	background:#FCBA43;
+	text-align: center;
+	margin-left: 150px; 
+}
+.two{
+	margin-left: -200px;
+}
+
+footer{
+	background-color: #323230;
+	padding: 0px 0 50px 170px;
+	
+}
+footer p{
+	color: white;
+	border-bottom: 0;
+	display: inline-block;
+	margin-top: 20px;
+
+}
+footer .icono{
+	width: 23px;
+	height: 22px;
+	margin-bottom: -5px;
+}
+footer .celular{
+	color: #04A3D0;
+}
